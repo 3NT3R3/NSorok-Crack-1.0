@@ -1,0 +1,11 @@
+NSorok-Crack 1.0 documentation
+Author: 3NT3R3 (https://github.com/3nt3r3)
+
+Statute of tool:
+
+1. License - This version NSorok-Crack is free. User can modify ,upgrade tool to own need BUT MUST NOT SEELING OR APPROPRIATE. Modify tool to working at this 
+version on a lots Systems is legal (for example: modify code to work on Arch systems).
+2. Authority - Author is not authority for any damage. User is authority in method of use.
+3. Idea - Tool was created with idea help with pentesting with MySQL.
+4. Installing - This tool is intended for all Linux base on Debian using APT (as package manager) to download library to
+support MySQL login query (will work for example on: Debian, Kali, Parrot).
